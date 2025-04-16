@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on the project "Monovision Studio".<br>💻 I'm learning frontend and backend technologies.<br>🌍 My website: valerii-hud.com<br>📧 You can contact me via email: support@valerii-hud.com
+🚀 I'm currently working on the project "Ceramic Soul".<br>💻 I'm learning frontend and backend technologies.<br>🌍 My website: valerii-hud.com<br>📧 You can contact me via email: support@valerii-hud.com
 
 
 ## 🌐 Socials:
