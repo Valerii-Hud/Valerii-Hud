@@ -1,7 +1,7 @@
 <img src="https://preview.redd.it/d0z6y1gnhmz71.gif?width=360&auto=webp&s=610af9d14336d16999455b2067def4346a807df3" />
 
 # 💫 About Me:
-🚀 I'm currently working on the project "Ceramic Soul".<br>💻 I'm learning frontend technologies.<br>🌍 My website: valerii-hud.com<br>📧 You can contact me via email: support@valerii-hud.com
+🚀 I'm currently working on the project "Ceramic Soul".<br>💻 I'm learning fullstack technologies.<br>🌍 My website: valerii-hud.com<br>📧 You can contact me via email: support@valerii-hud.com
 
 
 ## 🌐 Socials:
