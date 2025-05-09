@@ -6,7 +6,7 @@ Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
               with HTML, CSS, JavaScript, Gulp, Vite, Git and PostCSS. In the
               coming year, I plan to master React, Next.js and TypeScript, and
               then learn the basics of the backend (Node.js, PostgreSQL,
-              MongoDB) <br>
+              MongoDB) <br> <br>
 🚀 I'm currently working on the project "Personal portfolio".<br>💻 I'm learning front-end technologies but i also interesting back-end.<br> 🌍 My website: https://valerii-hud.com/ <br>📧 You can contact me via email: dev@valerii-hud.com
 
 
