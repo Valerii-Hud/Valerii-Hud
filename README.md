@@ -1,6 +1,12 @@
 <img src="https://preview.redd.it/d0z6y1gnhmz71.gif?width=360&auto=webp&s=610af9d14336d16999455b2067def4346a807df3" />
 
 # 💫 About Me:
+Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
+              developer. My journey into the world of code began in 2023. I work
+              with HTML, CSS, JavaScript, Gulp, Vite, Git and PostCSS. In the
+              coming year, I plan to master React, Next.js and TypeScript, and
+              then learn the basics of the backend (Node.js, PostgreSQL,
+              MongoDB) <br>
 🚀 I'm currently working on the project "Personal portfolio".<br>💻 I'm learning front-end technologies but i also interesting back-end.<br> 🌍 My website: https://valerii-hud.com/ <br>📧 You can contact me via email: dev@valerii-hud.com
 
 
