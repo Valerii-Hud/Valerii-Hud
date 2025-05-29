@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
               developer. My journey into the world of code began in 2023. I work
-              with HTML, CSS, JavaScript, Gulp, Vite, Git and PostCSS. In the
+              with HTML, CSS/LESS/SASS/SCSS, JavaScript, Gulp, Vite, Git and PostCSS. In the
               coming year, I plan to master React, Next.js and TypeScript, and
               then learn the basics of the backend (Node.js, PostgreSQL,
               MongoDB) <br> <br>
