@@ -1,5 +1,6 @@
 <img src="https://preview.redd.it/d0z6y1gnhmz71.gif?width=360&auto=webp&s=610af9d14336d16999455b2067def4346a807df3" />
 
+
 # 💫 About Me:
 Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
               developer. My journey into the world of code began in 2023. I work
@@ -41,6 +42,8 @@ Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
 ![](https://nirzak-streak-stats.vercel.app/?user=Valerii-Hud&theme=shades-of-purple&hide_border=false)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii-Hud&theme=shades-of-purple&cache_seconds=1800)
+<br>
+![Profile Views](https://komarev.com/ghpvc/?username=Valerii-Hud&color=blue)
 
 
 ---
