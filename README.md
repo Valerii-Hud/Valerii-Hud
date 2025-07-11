@@ -59,6 +59,9 @@
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Valerii-Hud&theme=shades-of-purple&hide_border=false)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii-Hud&theme=shades-of-purple&cache_seconds=1800)  
+<br>
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Valerii-Hud&theme=react)
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Valerii-Hud&color=blue)
 
 ---
@@ -68,6 +71,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valerii_Hud)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@valerii-hud.com)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/valerii-hud/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/754188336649863178)
 [![](https://visitcount.itsvg.in/api?id=Valerii-Hud&icon=9&color=7)](https://visitcount.itsvg.in)
 
 ---
