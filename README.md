@@ -60,7 +60,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii-Hud&theme=shades-of-purple&cache_seconds=1800)  
 <br>
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Valerii-Hud&theme=react)
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Valerii-Hud&theme=high-contrast)
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Valerii-Hud&color=blue)
 
