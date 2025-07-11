@@ -1,42 +1,73 @@
-<img src="https://preview.redd.it/d0z6y1gnhmz71.gif?width=360&auto=webp&s=610af9d14336d16999455b2067def4346a807df3" />
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%"/>
 
+# 👋 Hi, I'm Valerii Hud
 
-# 💫 About Me:
-Hi! My name is Valerii Hud, I am 16 years old and I am a frontend
-              developer. My journey into the world of code began in 2023. I work
-              with HTML, CSS/LESS/SASS/SCSS, JavaScript, Gulp, Vite, Git and PostCSS. In the
-              coming year, I plan to master React, Next.js and TypeScript, and
-              then learn the basics of the backend (Node.js, PostgreSQL,
-              MongoDB) <br> <br>
-🚀 I'm currently working on the project "learn-js".<br>💻 I'm learning front-end technologies.<br> 🌍 My website: https://valerii-hud.com/ <br>📧 You can contact me via email: dev@valerii-hud.com or via telegram: @Valerii_Hud
-
-
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white])](mailto:dev@valerii-hud.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valeriy_Hud)
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/valerii-hud/)
-
-# 💻 Tech Stack:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![POSTCSS](https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Valerii-Hud&theme=shades-of-purple&hide_border=false)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii-Hud&theme=shades-of-purple&cache_seconds=1800)
-<br>
-![Profile Views](https://komarev.com/ghpvc/?username=Valerii-Hud&color=blue)
-
+💻 I'm a **frontend developer**, 16 y.o.  
+🚀 Started coding in **2023**  
+📍 Focused on **clean, fast and responsive UI**  
+🎯 Currently working on: `learn-js`  
+🎓 Learning: **React, Next.js, TypeScript**
 
 ---
+
+## 📬 Contact Me
+
+- 🌐 Website: [valerii-hud.com](https://valerii-hud.com)
+- ✉️ Email: [dev@valerii-hud.com](mailto:dev@valerii-hud.com)
+- 💬 Telegram: [@Valerii_Hud](https://t.me/Valerii_Hud)
+- 📚 Udemy: [My Profile](https://www.udemy.com/user/valerii-hud/)
+
+---
+
+## 🧠 Currently Learning
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 💻 Tech Stack
+
+### 🧩 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🎨 Preprocessors & Styling
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
+
+### ⚙️ Build Tools
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+### 📚 Libraries & Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7BA3E?style=for-the-badge&logo=prettier&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Valerii-Hud&theme=shades-of-purple&hide_border=false)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valerii-Hud&theme=shades-of-purple&cache_seconds=1800)  
+![Profile Views](https://komarev.com/ghpvc/?username=Valerii-Hud&color=blue)
+
+---
+
+## 🌐 Socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Valerii_Hud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@valerii-hud.com)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/valerii-hud/)
 [![](https://visitcount.itsvg.in/api?id=Valerii-Hud&icon=9&color=7)](https://visitcount.itsvg.in)
+
+---
