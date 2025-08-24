@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm **Valerii Hud**
 
-<!--
-**Valerii-Hud/Valerii-Hud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Beginner Frontend Developer** · Learning React & TypeScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Valerii_Hud)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/754188336649863178)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev@valerii-hud.com)
+[![Website](https://img.shields.io/badge/valerii--hud.com-333333?style=flat&logo=internet-explorer&logoColor=white)](https://valerii-hud.com)
+
+---
+
+### 💡 Tech Stack 
+- HTML
+- CSS/SCSS
+-  JS/TS
+-  React
